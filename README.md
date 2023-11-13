@@ -34,5 +34,6 @@ L'objectiu d'aquest projecte és identificar i classificar els empleats en dues 
 
 ### Versió 2
 
+## Versió Final
 
 ## Conclusió
