@@ -2,8 +2,11 @@
 
 ## Participants
 Amal El Hammoudi - 1608672
+
 Àfrica Gamero - 
+
 Yasmin L'Harrak - 
+
 Èlia Vinyes -
 
 ## Introducció
