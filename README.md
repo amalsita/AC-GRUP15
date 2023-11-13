@@ -3,11 +3,11 @@
 ## Participants
 Amal El Hammoudi - 1608672
 
-Àfrica Gamero - 
+Àfrica Gamero - 1606033
 
 Yasmin L'Harrak - 
 
-Èlia Vinyes -
+Èlia Vinyes - 1606019
 
 ## Introducció
 Durant aquest projecte, ens endinsarem en el món del clustering aplicat a la salut mental en entorns laborals. La salut mental, que abasta el benestar cognitiu, conductual i emocional, ha emergit com un tema crucial en l'àmbit laboral, on alguns espais de treball es prioritza com un aspecte fonamental del benestar dels l'empleats, mentre que en altres, lamentablement, no se li atorga la deguda importància, donant lloc a estigmatització per part de companys i superiors cap a aquells que enfronten problemes mentals.
