@@ -18,3 +18,21 @@ Per dur a terme aquest anàlisi, emprarem tècniques de clustering utilitzant Py
 ## Objectius
 
 L'objectiu d'aquest projecte és identificar i classificar els empleats en dues categories distintes: aquells que treballen en un entorn laboral que brinda un sòlid suport a la salut mental, i aquells que lamentablement no compten amb aquest recolzament. Aquest enfocament ens permetrà comprendre millor quines dinàmiques laborals estan relacionades amb la salut mental i destacar la importància de crear entorns de treball que fomentin el benestar psicològic dels empleats. 
+
+
+## Dataset
+
+## Starting Point
+
+
+## Arquitectura
+
+## Versions
+
+### Versió 1
+
+
+### Versió 2
+
+
+## Conclusió
