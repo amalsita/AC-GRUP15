@@ -43,7 +43,7 @@ Cada camp ofereix informació específica:
   
   **Work_interfere**: Si tens una malaltia mental, creus que interfereix amb la teva feina?
   
-  **no_employees**: Quants empleats té la vostra empresa o organització?
+  **No_employees**: Quants empleats té la vostra empresa o organització?
 
 
 ## Starting Point
