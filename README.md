@@ -22,28 +22,28 @@ L'objectiu d'aquest projecte és identificar i classificar els empleats en dues 
 
 ## Dataset
 
-Aquest conjunt de dades prové d' una enquesta sobre salut mental en l' entorn laboral.
-Cada camp ofereix informació específica:
-
-Timestamp: Indica el moment de l'enquesta, útil per analitzar patrons temporals.
-
-Age: Representa l'edat de l'enquestat, permetent explorar correlacions amb respostes de salut mental.
-
-Gender:  gènere de l'enquestat, facilitant anàlisi segons aquesta variable.
-
-Country: país de residència, útil per identificar variacions geogràfiques.
-
-State: Aplicable només a enquestats als EEUU Indica l'estat de residència per a anàlisi a nivell estatal.
-
-Self-employed: Informa si l'enquestat és autònom, rellevant per comprendre diferències en percepcions laborals.
-
-Family_history: Revela si hi ha antecedents familiars de malalties mentals.
-
-Treatment: Has buscat tractament per a una malaltia mental?
-
-Work_interfere: Si tens una malaltia mental, creus que interfereix amb la teva feina?
-
-no_employees: Quants empleats té la vostra empresa o organització?
+  Aquest conjunt de dades prové d' una enquesta sobre salut mental en l' entorn laboral.
+  Cada camp ofereix informació específica:
+  
+      Timestamp: Indica el moment de l'enquesta, útil per analitzar patrons temporals.
+      
+      Age: Representa l'edat de l'enquestat, permetent explorar correlacions amb respostes de salut mental.
+      
+      Gender:  gènere de l'enquestat, facilitant anàlisi segons aquesta variable.
+      
+      Country: país de residència, útil per identificar variacions geogràfiques.
+      
+      State: Aplicable només a enquestats als EEUU Indica l'estat de residència per a anàlisi a nivell estatal.
+      
+      Self-employed: Informa si l'enquestat és autònom, rellevant per comprendre diferències en percepcions laborals.
+      
+      Family_history: Revela si hi ha antecedents familiars de malalties mentals.
+      
+      Treatment: Has buscat tractament per a una malaltia mental?
+      
+      Work_interfere: Si tens una malaltia mental, creus que interfereix amb la teva feina?
+      
+      no_employees: Quants empleats té la vostra empresa o organització?
 
 
 ## Starting Point
