@@ -5,7 +5,7 @@ Amal El Hammoudi - 1608672
 
 Àfrica Gamero - 1606033
 
-Yasmin L'Harrak - 
+Yasmin L'Harrak - 1603496
 
 Èlia Vinyes - 1606019
 
