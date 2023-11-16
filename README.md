@@ -22,7 +22,7 @@ L'objectiu d'aquest projecte és identificar i classificar els empleats en dues 
 
 ## Dataset
 
-Aquest conjunt de dades prové d' una enquesta sobre salut mental en l' entorn laboral.
+El dataset que utilitzem prové d' una enquesta sobre salut mental en l' entorn laboral.
 Cada camp ofereix informació específica:
 
   **Timestamp**: Indica el moment de l'enquesta, útil per analitzar patrons temporals.
