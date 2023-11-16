@@ -25,15 +25,15 @@ L'objectiu d'aquest projecte és identificar i classificar els empleats en dues 
 El dataset que utilitzem prové d' una enquesta sobre salut mental en l' entorn laboral.
 Cada camp ofereix informació específica:
 
-  **Timestamp**: Indica el moment de l'enquesta, útil per analitzar patrons temporals.
+  **Timestamp**: Indica el moment en que es va realitzar l'enquesta.
   
-  **Age**: Representa l'edat de l'enquestat, permetent explorar correlacions amb respostes de salut mental.
+  **Age**: Representa l'edat de l'enquestat, aquest camp haurà de tractar-se per evitar outliers.
   
-  **Gender**:  gènere de l'enquestat, facilitant anàlisi segons aquesta variable.
+  **Gender**:  Gènere de l'enquestat, el camp haurà de ser tractat per tal de homogeneïtzar els resultats.
   
-  **Country**: país de residència, útil per identificar variacions geogràfiques.
+  **Country**: País de residència, útil per identificar variacions geogràfiques.
   
-  **State**: Aplicable només a enquestats als EEUU Indica l'estat de residència per a anàlisi a nivell estatal.
+  **State**: Aplicable només a enquestats als EEUU. Indica l'estat de residència per a anàlisi a nivell estatal.
   
   **Self-employed**: Informa si l'enquestat és autònom, rellevant per comprendre diferències en percepcions laborals.
   
