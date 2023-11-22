@@ -47,7 +47,9 @@ Cada camp ofereix informació específica:
 
 
 ## Starting Point
+El punt inicial del nostre projecte comença en el tractament de les dades. A la columna de gènere, s'observa una diversitat d'entrades que representen el mateix terme però amb de diferent manera. Mitjançant un diccionari, s'ha realitzat manualment una unificació de termes per estandarditzar la informació.
 
+Posteriorment, s'ha continuat amb l'anàlisi de valors nuls (Nans) en el conjunt de dades. A través d'una funció, hem calculat el porcentatge de nans per característica.
 
 ## Arquitectura
 
