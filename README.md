@@ -51,6 +51,7 @@ El punt inicial del nostre projecte comença en el tractament de les dades. A la
 
 Posteriorment, s'ha continuat amb l'anàlisi de valors nuls (Nans) en el conjunt de dades. A través d'una funció, hem calculat el porcentatge de nans per característica.
 
+En el codi inicial, s'elimina l'edat, però nosaltres creiem que potser no hauria de ser descartada. Considerem que és un element que, tot i no ser aparentment rellevant ara, podria tenir una importància futura. Per tant, si en un moment posterior veiem que l'edat no és rellevant per al propòsit actual, tindrem en compte aquesta decisió i la seva exclusió del codi.
 ## Arquitectura
 
 ## Versions
