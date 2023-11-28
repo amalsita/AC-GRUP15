@@ -70,6 +70,29 @@ Això ens permetrà comprendre les diferents percepcions o nivells de salut ment
 La idea es hacer la prueba con dos cluster y luego con más clsuters dependiendo del elbow
 La idea es probar con los siguientes modelos: kmeasn, gaussain, dbscan, meanshift, Clustering Espectral y Hierarchical Clustering
 Comparar los modelos gráficamente, con valores numéricos y métricas
+
+
+
+metricas:
+
+Índice de Silueta (Silhouette Score): Este índice mide cuán similar es un objeto a su propio clúster (cohesión) en comparación con otros clústeres (separación). El valor de silueta varía de -1 a 1, donde un valor alto indica que el objeto está bien emparejado con su propio clúster y mal emparejado con clústeres vecinos.
+
+
+
+
+Inercia: La inercia mide la suma de las distancias al cuadrado de cada punto al centroide de su clúster. Los valores más bajos de inercia son mejores, ya que indican clústeres más compactos.
+
+
+
+
+Calinski-Harabasz Index: Esta métrica compara la dispersión entre clústeres con la dispersión dentro de los clústeres. Valores más altos indican modelos de clustering más densos y mejor definidos.
+
+
+
+
+
+
+Davies-Bouldin Index: Este índice mide la "compacidad" y la "separación" de los clústeres. Valores más bajos indican un mejor resultado.
 ## Arquitectura
 
 ## Versions
