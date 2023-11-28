@@ -65,6 +65,11 @@ Es divideix en dos clusters: aquells que treballen en un entorn positiu pel que 
   
 Això ens permetrà comprendre les diferents percepcions o nivells de salut mental en relació amb l'entorn laboral, oferint una visió més detallada de les respostes dels participants en la classificació de la seva situació respecte a la salut mental en l'àmbit laboral.
 
+
+
+La idea es hacer la prueba con dos cluster y luego con más clsuters dependiendo del elbow
+La idea es probar con los siguientes modelos: kmeasn, gaussain, dbscan, meanshift, Clustering Espectral y Hierarchical Clustering
+Comparar los modelos gráficamente, con valores numéricos y métricas
 ## Arquitectura
 
 ## Versions
