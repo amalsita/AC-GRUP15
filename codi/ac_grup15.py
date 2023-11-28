@@ -26,12 +26,12 @@ from sklearn.metrics import confusion_matrix,f1_score
 from sklearn.metrics import classification_report
 from sklearn.model_selection import validation_curve
 
-from google.colab import drive
-drive.mount('/content/drive')
+#from google.colab import drive
+#drive.mount('/content/drive')
 
 """## Importació Dataset"""
 
-mental_health_dataset = pd.read_csv("/content/drive/MyDrive/4T ED/Aprenentatge computacional /survey.csv")
+mental_health_dataset = pd.read_csv("Input Data\survey.csv")
 orig_mental_health_dataset = mental_health_dataset.copy()
 orig_mental_health_dataset.head()
 
