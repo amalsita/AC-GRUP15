@@ -13,7 +13,7 @@ Yasmin L'Harrak - 1603496
 Durant aquest projecte, ens endinsarem en el món del clustering aplicat a la salut mental en entorns laborals. La salut mental, que abasta el benestar cognitiu, conductual i emocional, ha emergit com un tema crucial en l'àmbit laboral, on alguns espais de treball es prioritza com un aspecte fonamental del benestar dels l'empleats, mentre que en altres, lamentablement, no se li atorga la deguda importància, donant lloc a estigmatització per part de companys i superiors cap a aquells que enfronten problemes mentals.
 
 Per dur a terme aquest anàlisi, emprarem tècniques de clustering utilitzant Python, específicament en l'entorn de Jupyter.
-
+hola
 
 ## Objectius
 
