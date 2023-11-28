@@ -49,9 +49,10 @@ Cada camp ofereix informació específica:
 ## Starting Point
 El punt inicial del nostre projecte comença en el tractament de les dades. A la columna de gènere, s'observa una diversitat d'entrades que representen el mateix terme però amb de diferent manera. Mitjançant un diccionari, s'ha realitzat manualment una unificació de termes per estandarditzar la informació.
 
-Posteriorment, s'ha continuat amb l'anàlisi de valors nuls (Nans) en el conjunt de dades. A través d'una funció, hem calculat el porcentatge de nans per característica.
+Posteriorment, s'ha continuat amb l'anàlisi de valors nuls (Nans) en el conjunt de dades. A través d'una funció, hem calculat el porcentatge de nans per característica. En particular, hem identificat Nans en les característiques: State, work_interferee, self_employed i comentaris.
 
-En el codi inicial, s'elimina l'edat, però nosaltres creiem que potser no hauria de ser descartada. Considerem que és un element que, tot i no ser aparentment rellevant ara, podria tenir una importància futura. Per tant, si en un moment posterior veiem que l'edat no és rellevant per al propòsit actual, tindrem en compte aquesta decisió i la seva exclusió del codi.
+
+En el codi inicial, s'elimina l'edat, però nosaltres creiem que potser no hauria de ser descartada. Considerem que és un element que, tot i no ser aparentment rellevant ara, podria tenir una importància futura. Per tant, si en un moment posterior veiem que l'edat no és rellevant per al propòsit actual, tindrem en compte aquesta decisió i la seva exclusió del codi. El que s'ha fet és identificar les files on els valors són nuls ('isnull()'), i substituir aquests Nans pel valor més freqüent de cada columna. Això ens permet omplir els buits amb els valors més comuns dins de cada característica per evitar la pèrdua d'informació rellevant en el conjunt de dades.
 ## Arquitectura
 
 ## Versions
